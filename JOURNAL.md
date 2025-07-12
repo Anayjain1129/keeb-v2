@@ -18,6 +18,8 @@ created_at: "2025-06-30"
 ## 11th July: PCB & CAD
 >Alr So i changes the whole sch cause i dont want a full size bulky keeb so i changed it according to my needs And here is my layout
 
+![](/images/sch.png)
+
 ![](/images/layout.png)
 
 >Then i started to work on my PCB. added the keybord svg to place everything in correct place.
