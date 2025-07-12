@@ -30,7 +30,7 @@ Features:
 - Bottom
 ![image](images/8.png)
 
--Middle plate
+- Middle plate
 ![image](images/11.png)
 
 - Top
