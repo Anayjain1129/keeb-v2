@@ -52,7 +52,7 @@ Features:
 | M3 x 20mm Bolt                                                | 15  | 149 ($1.73)             | [here](https://amzn.in/d/8GRQWAB)                                                                                           |
 | M3 Nuts                                                       | 8   | 100 ($1.16)             | [here](https://amzn.in/d/7UQtsm8)                                                                                           |
 | M3 x 5mm Heatset Insert                                       | 25  | 179 ($2.09)             | [here](https://amzn.in/d/ixybuAc)                                                                                           |
-| PCB - (Black Color)                                           | 5   | 6683 ($77.78)           | [here]() |
+| PCB - (Black Color)                                           | 5   | 6683 ($77.78)           ||
 | Raspberry Pi Pico                                             | 1   | 449 ($5.19)             | [here](http://amazon.in/Raspberry-Pi-Headers-Soldered-Micro/dp/B08WPNM7JB/ref=sr_1_2?sr=8-2)                                |
 | Top Case                                                      | 1   | Print Legion            |
 | Bottom Case                                                   | 1   | Print Legion            |
