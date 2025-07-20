@@ -56,6 +56,10 @@ I got my sister who is artist so yea sh'e currntly out of station rn but she so 
 ![image](images/col.png)
 I have more But I dont have phone rn so i can not take pictures 
 
+![image](images/col.png)
+I have more But I dont have phone rn so i can not take pictures 
+
+
 ## BOM
 
 | Name                                                          | Qty | Final Price - INR (USD) | Link                                                                                                                        |
