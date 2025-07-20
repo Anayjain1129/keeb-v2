@@ -53,6 +53,9 @@ Features:
 Also at the back part which i have craved some part it is because I'm gonna hand paint it to make it more attractive, I wasn't about to use Blender because I'm cyurrently on Arch and im facing issues. I hope my keeb gets approved now!
 I got my sister who is artist so yea sh'e currntly out of station rn but she so many ideas, And like I got so many hackclub stickers so I will use them too.
 
+![image](images/col.png)
+I have more But I dont have phone rn so i can not take pictures 
+
 ## BOM
 
 | Name                                                          | Qty | Final Price - INR (USD) | Link                                                                                                                        |
