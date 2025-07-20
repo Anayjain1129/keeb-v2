@@ -1,7 +1,7 @@
 ![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
 
 # Keeb
-![image](images/12.png)
+![image](images/final.png)
 
 ### Why did I make it?
 I made it cause I have a freaking 60% keeb and I really need function keys also It has 2 RE which i can use for like brightness or volume stuff.
@@ -28,7 +28,7 @@ Features:
 
 ### Case
 - Bottom
-![image](images/8.png)
+![image](images/backky.png)
 
 - Middle plate
 ![image](images/11.png)
@@ -39,6 +39,19 @@ Features:
 ### 3D view of all parts together 
 ![image](images/12.png)
 ![image](images/14.png)
+
+### Stickers & Handcolor
+![image](images/sticker.png)
+![image](images/sticekr1.png)
+![image](images/stickers2.png)
+
+-Paint
+![image](images/paint.png)
+![image](images/paint1.png)
+![image](images/backky.png)
+
+Also at the back part which i have craved some part it is because I'm gonna hand paint it to make it more attractive, I wasn't about to use Blender because I'm cyurrently on Arch and im facing issues. I hope my keeb gets approved now!
+I got my sister who is artist so yea sh'e currntly out of station rn but she so many ideas, And like I got so many hackclub stickers so I will use them too.
 
 ## BOM
 
